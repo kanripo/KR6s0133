@@ -1,37 +1,3 @@
-#+TITLE: 高麗國新雕大藏校正別錄 / CBETA
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-31 00:18:59.158155
-* 版本
- |     CBETA|【電子佛典集成】|
- |         K|【麗】     |
-目次
- - [[file:KR6s0133_001.txt][高麗國新雕大藏校正別錄 1]]
- - [[file:KR6s0133_002.txt][高麗國新雕大藏校正別錄 2]]
- - [[file:KR6s0133_003.txt][高麗國新雕大藏校正別錄 3]]
- - [[file:KR6s0133_004.txt][高麗國新雕大藏校正別錄 4]]
- - [[file:KR6s0133_005.txt][高麗國新雕大藏校正別錄 5]]
- - [[file:KR6s0133_006.txt][高麗國新雕大藏校正別錄 6]]
- - [[file:KR6s0133_007.txt][高麗國新雕大藏校正別錄 7]]
- - [[file:KR6s0133_008.txt][高麗國新雕大藏校正別錄 8]]
- - [[file:KR6s0133_009.txt][高麗國新雕大藏校正別錄 9]]
- - [[file:KR6s0133_010.txt][高麗國新雕大藏校正別錄 10]]
- - [[file:KR6s0133_011.txt][高麗國新雕大藏校正別錄 11]]
- - [[file:KR6s0133_012.txt][高麗國新雕大藏校正別錄 12]]
- - [[file:KR6s0133_013.txt][高麗國新雕大藏校正別錄 13]]
- - [[file:KR6s0133_014.txt][高麗國新雕大藏校正別錄 14]]
- - [[file:KR6s0133_015.txt][高麗國新雕大藏校正別錄 15]]
- - [[file:KR6s0133_016.txt][高麗國新雕大藏校正別錄 16]]
- - [[file:KR6s0133_017.txt][高麗國新雕大藏校正別錄 17]]
- - [[file:KR6s0133_018.txt][高麗國新雕大藏校正別錄 18]]
- - [[file:KR6s0133_019.txt][高麗國新雕大藏校正別錄 19]]
- - [[file:KR6s0133_020.txt][高麗國新雕大藏校正別錄 20]]
- - [[file:KR6s0133_021.txt][高麗國新雕大藏校正別錄 21]]
- - [[file:KR6s0133_022.txt][高麗國新雕大藏校正別錄 22]]
- - [[file:KR6s0133_023.txt][高麗國新雕大藏校正別錄 23]]
- - [[file:KR6s0133_024.txt][高麗國新雕大藏校正別錄 24]]
- - [[file:KR6s0133_025.txt][高麗國新雕大藏校正別錄 25]]
- - [[file:KR6s0133_026.txt][高麗國新雕大藏校正別錄 26]]
- - [[file:KR6s0133_027.txt][高麗國新雕大藏校正別錄 27]]
- - [[file:KR6s0133_028.txt][高麗國新雕大藏校正別錄 28]]
- - [[file:KR6s0133_029.txt][高麗國新雕大藏校正別錄 29]]
- - [[file:KR6s0133_030.txt][高麗國新雕大藏校正別錄 30]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
